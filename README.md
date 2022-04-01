@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
-
 ### Features
 - Responsive.
 - Syntax Highlight
@@ -22,12 +19,6 @@ highlighter-theme: monokai //you can change your syntax color scheme.
 date_format: "%Y-%M-%D" //and date format.
 ```
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+#### Theme Monos
+> Jekyll님의 테마를 참고하였습니다.
+
