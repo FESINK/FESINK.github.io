@@ -4,14 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
-
 ### _config.yml
 > Code block will look like this.
 ```yml
